@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Rodrigo Cassemiro 👋
 
-<!--
-**rodrigocassemiro/rodrigocassemiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Owner focused on AI, Automation, Digital Products and Business Transformation.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🇧🇷 Brazilian citizen
+- 📍 Based in Lisbon, Portugal and São Paulo, Brazil
+- 🚀 Product Owner at Cazia
+- 🤖 Passionate about AI, Automation and Product Strategy
+- 🌎 International experience across Brazil, Ireland, UK and Portugal
+
+## Core Competencies
+
+- Product Management
+- Product Discovery
+- Product Strategy
+- Agile Scrum
+- Roadmap Planning
+- User Stories
+- Stakeholder Management
+- AI & Automation
+- n8n
+- CRM & Customer Experience
+
+## Professional Experience
+
+### Product Owner | Cazia
+Building AI-powered solutions, digital marketplaces and automation initiatives for the real estate industry.
+
+### Account Manager | SoftwareOne
+Enterprise cloud solutions across AWS, Azure and Google Cloud.
+
+### Customer Support Specialist | Google Devices
+Supporting Google's smart home ecosystem through Concentrix.
+
+## Certifications
+
+- Microsoft Azure AZ-900
+- Oracle Cloud Foundations
+- Red Hat Ansible
+- IBM Cloud
+
+## Languages
+
+- Portuguese 🇧🇷
+- English 🇺🇸
+- Spanish 🇪🇸
+- French 🇫🇷
+
+## Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/rodrigocassemiro
+
+Email:
+rodrigo.cassemiro@gmail.com

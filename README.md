@@ -4,7 +4,7 @@ Product Owner with international experience leading AI-driven initiatives, digit
 
 ## About Me
 
-* 🇧🇷 Brazilian and 🇵🇹 Portuguese Visa Resident 
+*🇧🇷 Brazilian Citizen | 🇵🇹 Permanent Resident in Portugal
 * 📍 Based between Lisbon, Portugal and São Paulo, Brazil
 * 🚀 Product Owner at Cazia
 * 🤖 Passionate about AI, Product Strategy and Automation

@@ -1,60 +1,20 @@
 # Hi there, I'm Rodrigo Cassemiro 👋
 
-### Product Owner | AI & Automation | Digital Transformation
-
-> Transforming business challenges into scalable digital products through Product Strategy, AI and Process Automation.
+### Product Owner | AI Product Management | Digital Transformation
 
 🇧🇷 Brazilian Citizen | 🇵🇹 Permanent Resident in Portugal
 
-📍 Based between Portugal and Brazil
-
-🚀 Product Owner at Cazia
-
-🤖 Passionate about AI, Automation and Product Strategy
-
-🌎 International experience across Brazil, Ireland, United Kingdom and Portugal
+Currently leading AI-powered product initiatives at Cazia and previously supporting Google Cloud transformation programs across Europe.
 
 ---
 
-## 👨‍💼 Professional Summary
+## 🚀 About Me
 
-Product Owner with experience leading digital transformation initiatives, AI-powered products, process automation and marketplace platforms.
+Product Owner with international experience delivering digital transformation, AI-powered products, cloud solutions, and scalable business initiatives.
 
-My background combines Product Management, Cloud Technology, Customer Experience and Business Strategy, allowing me to bridge business objectives, customer needs and technical execution.
+Passionate about connecting business strategy, customer needs, and technology to create products that generate measurable value.
 
-Currently focused on building scalable digital products, AI-driven workflows and customer-centric experiences within the real estate technology sector.
-
----
-
-## 🚀 Core Competencies
-
-### 🧠 Product Management
-
-Product Strategy • Product Discovery • Product Ownership • MVP Definition • Product Vision • Product Lifecycle Management
-
-### 🗺️ Roadmaps & Prioritization
-
-Roadmap Planning • Backlog Management • Release Planning • MoSCoW • RICE • Impact vs Effort Matrix
-
-### 👥 Stakeholder & Customer Management
-
-Stakeholder Management • User Research • Customer Journey Mapping • Customer Experience • Cross-Functional Leadership
-
-### 📋 Agile Delivery
-
-Scrum • Kanban • Sprint Planning • Sprint Reviews • Retrospectives • User Stories • Acceptance Criteria
-
-### 🤖 AI & Automation
-
-AI Product Strategy • Conversational AI • LLM Applications • Workflow Automation • n8n • Process Optimization
-
-### 📊 Product Analytics & Business
-
-Product Metrics • KPI Definition • Funnel Analysis • Conversion Optimization • Data-Driven Decision Making
-
-### 🏢 Business Expertise
-
-PropTech • Marketplace Platforms • CRM Systems • SaaS Products • Digital Transformation
+My background combines Product Management, Cloud Computing, Enterprise Sales, Customer Experience, Automation, and Artificial Intelligence.
 
 ---
 
@@ -62,135 +22,180 @@ PropTech • Marketplace Platforms • CRM Systems • SaaS Products • Digital
 
 ### 🚀 Product Owner | Cazia
 
-Building AI-powered real estate solutions, marketplace experiences, automation initiatives and customer acquisition platforms.
+Leading AI-powered product initiatives within the real estate industry, connecting business goals with technology execution.
 
 Key Focus Areas:
 
-* AI-powered customer journeys
-* Marketplace products
-* CRM integration
-* WhatsApp authentication
-* Digital contract workflows
-* Product roadmap management
-* Process automation
+- Product Discovery
+- Product Strategy
+- Roadmap Definition
+- Backlog Management
+- Marketplace Products
+- AI Integration
+- Process Automation
+- Stakeholder Alignment
+- Agile Delivery
+
+---
+
+### 🌍 Associate Product Owner | Concentrix (Google Cloud Project)
+
+Worked onsite in Lisbon, Portugal, supporting a large-scale Google Cloud implementation across multiple European operations.
+
+Key Achievements:
+
+- Requirements Gathering
+- Product Prioritization
+- Agile Delivery
+- KPI Management
+- Product Adoption
+- Process Optimization
+- Stakeholder Management
+- Digital Transformation Programs
 
 ---
 
 ### ☁️ Account Manager | SoftwareOne
 
-Managed enterprise cloud solutions across AWS, Microsoft Azure and Google Cloud.
+Managed enterprise and government cloud transformation opportunities across Latin America.
 
-Highlights:
+Key Achievements:
 
-* Enterprise account management
-* Cloud transformation projects
-* Strategic partnerships
-* Multi-cloud solutions
-* C-Level stakeholder engagement
-
----
-
-### 📱 Customer Support Specialist | Google Devices
-
-Provided technical support for Google's smart home ecosystem through Concentrix.
-
-Products:
-
-* Google Nest
-* Chromecast
-* Google TV
-* Google WiFi
-* Smart Home Devices
+- Enterprise Account Management
+- Cloud Transformation Projects
+- Strategic Sales
+- Multi-Cloud Solutions
+- Executive Stakeholder Engagement
+- Business Development
+- Revenue Growth Initiatives
 
 ---
 
-## 📂 Portfolio Projects
+## 🛠️ Product Management Competencies
 
-### 🏢 AI-Powered Real Estate Marketplace
+### 📋 Product Strategy & Discovery
 
-End-to-end marketplace initiative designed to improve the rental experience through automation, AI integration and customer-centric product design.
+- Product Discovery
+- Product Vision
+- Product Strategy
+- User Journey Mapping
+- Customer Interviews
+- Market Research
+- Opportunity Assessment
+- Business Analysis
 
-### 📲 WhatsApp Authentication Platform
+### 📊 Product Delivery & Execution
 
-Product initiative focused on reducing onboarding friction through WhatsApp-based authentication and CRM integration.
+- Roadmap Management
+- Backlog Prioritization
+- Sprint Planning
+- Sprint Review
+- Scrum
+- Kanban
+- Agile Delivery
+- Release Planning
 
-### 🗺️ Marketplace Roadmap
+### 🎯 Prioritization Frameworks
 
-Strategic roadmap demonstrating prioritization, planning and product evolution.
+- MoSCoW
+- RICE
+- Value vs Effort
+- WSJF
+- Impact Mapping
 
----
+### 📈 Product Analytics & Growth
 
-## 📚 Product Frameworks
-
-* Product Discovery Framework
-* Roadmap Management Framework
-* Stakeholder Management Framework
-* Backlog Prioritization Framework
-
----
-
-## 🛠️ Tools & Platforms
-
-### Product
-
-Jira • Taiga • Miro • Figma • Notion
-
-### CRM & Customer Success
-
-HubSpot • Salesforce • Zendesk • ServiceNow
-
-### Automation & AI
-
-n8n • Flowise • OpenAI • LLM Applications
-
-### Cloud & Technology
-
-AWS • Microsoft Azure • Google Cloud
+- KPI Definition
+- Funnel Analysis
+- Product Adoption
+- Conversion Optimization
+- Retention Metrics
+- Data-Driven Decisions
 
 ---
 
-## 🎓 Certifications
+## 🤖 AI & Automation
 
-* Microsoft Azure AZ-900
-* Oracle Cloud Foundations
-* Red Hat Ansible
-* IBM Cloud
-
----
-
-## 🌍 Languages
-
-🇧🇷 Portuguese — Native
-
-🇺🇸 English — Fluent
-
-🇪🇸 Spanish — Fluent
-
-🇫🇷 French — Conversational
+- AI Product Strategy
+- Conversational AI
+- Generative AI
+- OpenAI
+- ChatGPT
+- Flowise
+- n8n
+- Process Automation
+- AI-Powered Workflows
+- Customer Journey Automation
 
 ---
 
-## 📈 Current Focus
+## ☁️ Cloud & Technology
 
-* AI Product Management
-* Automation Platforms
-* Marketplace Products
-* Product Discovery
-* Product Strategy
-* Digital Transformation
+- Microsoft Azure
+- AWS
+- Oracle Cloud
+- IBM Cloud
+- Google Cloud
+- RedHat Ansible
 
 ---
 
-## 🤝 Connect With Me
+## 🧰 Tools
 
-💼 LinkedIn
+- Jira
+- GitHub
+- Salesforce
+- HubSpot
+- ServiceNow
+- Google Workspace
+- Miro
+- Figma
 
+---
+
+## 🌎 Languages
+
+| Language | Level |
+|-----------|---------|
+| Portuguese | Native |
+| English | C2 |
+| Spanish | C2 |
+| French | Basic |
+| Mandarin Chinese | Basic |
+
+---
+
+## 📂 Featured Portfolio
+
+### AI-Powered Real Estate Marketplace
+
+End-to-end rental marketplace focused on AI, automation and customer experience.
+
+📄 Case Study:
+- case-studies/AI-Powered-Real-Estate-Marketplace.md
+
+🗺️ Roadmap:
+- roadmaps/marketplace-roadmap.md
+
+📖 User Stories:
+- user-stories/whatsapp-authentication.md
+- user-stories/property-search.md
+- user-stories/visit-scheduling.md
+- user-stories/digital-contract-signature.md
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn:
 https://linkedin.com/in/rodrigocassemiro
 
-📧 Email
+📧 Email:
+rodrigo.marin.cassemiro@gmail.com
 
-[rodrigo.cassemiro@gmail.com](mailto:rodrigo.cassemiro@gmail.com)
+🌍 Location:
+São Paulo, Brazil | Lisbon, Portugal
 
-🚀 Portfolio Repository
+---
 
-https://github.com/rodrigocassemiro/portfolio-po
+> Building products that connect business goals, technology, and customer value.
